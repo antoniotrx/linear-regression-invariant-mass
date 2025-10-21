@@ -33,7 +33,7 @@ I implemented linear regression in three ways:
  - Heatmap: Correlation coeficients
  - Loss curve for the gradient descent implementation
 
-## Technologies and Requirements to run this notebook
+## Technologies
 - Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ## Files
